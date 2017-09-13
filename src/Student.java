@@ -24,7 +24,7 @@ public class Student implements Comparable {
 	/**
 	 * student date of birth in "yyyy-MM-dd" format
 	 */
-	private Date birthDate
+	private Date birthDate;
 
 	/**
 	 * student average mark
